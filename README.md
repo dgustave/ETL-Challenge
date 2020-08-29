@@ -4,9 +4,9 @@
 
 * Create a `mls_db` database in dbeaver/postgres then create the following two tables within:
 
-  * A `2019 Major League Soccer` table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
+  * A "2019 Major League Soccer" table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
 
-  * A `2019 Average Club Salary` table that contains the columns 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries`.
+  * A "2019 Average Club Salary" table that contains the columns 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries`.
 
   * Be sure to assign a primary key, as Pandas will not be able to do so. In our case it will be by 'Club'. 
 
@@ -40,6 +40,6 @@
 
     * Combine the two tables "Eastern" and "Western" . 
     * Join the two tables select:
-    * The `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' from the '2019 Major League Soccer Stats' table'. 
-    * The 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries` from the `2019 Average Club Salary` table'. 
+    * The `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' from the "2019 Major League Soccer Stats" table. 
+    * The 'Club',  'Total Salaries', 'Total Expected Salaries', 'Average Salaries', 'Average Expected Salaries' from the "2019 Average Club Salary" table. 
     * 'Club' will be the joining point. 
