@@ -1,20 +1,22 @@
 ## Local Data ETL
 
-### Instructions
+### Thought Process
 
-* Create a `customer_db` database in pgAdmin 4 then create the following two tables within:
+* Create a `mls_db` database in dbeaver/postgres then create the following two tables within:
 
-  * A `premise` table that contains the columns `id`, `premise_name` and `county_id`.
+  * A `2019 Major League Soccer` table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
 
-  * A `county` table that contains the columns `id`, `county_name`, `license_count` and `county_id`.
+  * A `2019 Average Club Salary` table that contains the columns 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries`.
 
-  * Be sure to assign a primary key, as Pandas will not be able to do so.
+  * Be sure to assign a primary key, as Pandas will not be able to do so. In our case it will be by 'Club'. 
 
 * In Jupyter Notebook perform all ETL.
 
 * **Extraction**
 
-  * Put each CSV into a pandas DataFrame.
+  * Webscraping into a pandas DataFrame:
+  https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
+  https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019 
 
 * **Transform**
 
@@ -22,9 +24,9 @@
 
   * Rename columns to fit the tables created in the database.
 
-  * Handle any duplicates. **HINT:** some locations have the same name but each license number is unique.
+  * Handle any duplicates. **HINT:** In players salary, players have different names but teams are unique.
 
-  * Set index to the previously created primary key.
+  * Set index to the previously created primary key, which will be ['Club'].
 
 * **Load**
 
@@ -36,4 +38,8 @@
 
 * Confirm successful **Load** by querying database.
 
-* Join the two tables and select the `id` and `premise_name` from the `premise` table and `county_name` from the `county` table.
+    * Combine the two tables "Eastern" and "Western" . 
+    * Join the two tables select the `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' 
+    from the '2019 Major League Soccer' Stats table 
+    and 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries` 
+    from the `2019 Average Club Salary` table. Club will be the joining point. 
