@@ -15,8 +15,8 @@
 * **Extraction**
 
   * Webscraping into a pandas DataFrame:
-  https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
-  https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019 
+  * https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
+  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019 
 
 * **Transform**
 
@@ -39,7 +39,7 @@
 * Confirm successful **Load** by querying database.
 
     * Combine the two tables "Eastern" and "Western" . 
-    * Join the two tables select the `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' 
-    from the '2019 Major League Soccer' Stats table 
-    and 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries` 
-    from the `2019 Average Club Salary` table. Club will be the joining point. 
+    * Join the two tables select:
+    * The `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' from the '2019 Major League Soccer Stats' table'. 
+    * The 'Club',  `Total Salaries`, `Total Expected Salaries`, `Average Salaries`, `Average Expected Salaries` from the `2019 Average Club Salary` table'. 
+    * 'Club' will be the joining point. 
