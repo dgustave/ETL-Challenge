@@ -1,0 +1,25 @@
+Club_ID,Ranking,Squad,Matches Played,Wins,Draws,Losses,Goals For,Goals Against,Goal Differential,Total Points,Expected Goals,Expected Goals Allowed,Expected Goals Differiential,Expected Goals Differiential/ 90 (mins),Attendance (# of fans),Top Team Scorer,Goalkeeper,Club,Conference
+14,1,NYCFC,34,18,10,6,63,42,21,64,51.8,44.7,7.1,0.22,21107,Héber - 15,Sean Johnson,New York City FC,Eastern
+1,2,Atlanta,34,18,4,12,58,43,15,58,56.6,42.4,14.2,0.42,52510,Josef Martínez - 27,Brad Guzan,Atlanta United,Eastern
+17,3,Philadelphia,34,16,7,11,58,50,8,55,54.9,41.8,13.1,0.39,17111,Kacper Przybyłko - 15,Andre Blake,Philadelphia Union,Eastern
+23,4,Toronto FC,34,13,11,10,57,52,5,50,48.0,49.3,-1.3,-0.04,25048,Alejandro Pozuelo - 12,Quentin Westberg,Toronto FC,Eastern
+5,5,D.C. United,34,13,11,10,42,38,4,50,37.8,48.1,-10.3,-0.3,17744,Wayne Rooney - 11,Bill Hamid,DC United,Eastern
+15,6,NY Red Bulls,34,14,6,14,53,51,2,48,49.9,49.7,0.2,0.01,17751,Daniel Royer - 11,Luis Robles,New York Red Bulls,Eastern
+13,7,New England,34,11,12,11,50,57,-7,45,44.8,54.9,-10.2,-0.3,16737,Carles Gil - 10,Matt Turner,New England Revolution,Eastern
+2,8,Chicago,34,10,12,12,55,47,8,42,53.0,44.7,8.3,0.25,12324,C.J. Sapong - 13,Kenneth Kronholm,Chicago Fire,Eastern
+12,9,Montreal,34,12,5,17,47,60,-13,41,38.4,50.0,-11.6,-0.34,16171,Saphir Taïder - 9,Evan Bush,Montreal Impact,Eastern
+4,10,Columbus,34,10,8,16,39,47,-8,38,37.3,41.8,-4.5,-0.13,14856,Gyasi Zardes - 13,Zack Steffen,Columbus Crew,Eastern
+16,11,Orlando City,34,9,10,15,44,52,-8,37,43.6,42.5,1.1,0.03,22761,Nani - 12,Brian Rowe,Orlando City SC,Eastern
+6,12,FC Cincinnati,34,6,6,22,31,75,-44,24,33.1,59.3,-26.3,-0.77,27336,Allan Cruz - 7,Spencer Richey,FC Cincinnati,Eastern
+10,1,Los Angeles FC,34,21,9,4,85,37,48,72,77.3,36.5,40.8,1.2,22251,Carlos Vela - 34,Tyler Miller,LAFC,Western
+21,2,Seattle,34,16,8,10,52,49,3,56,48.7,46.3,2.4,0.07,40247,Raúl Ruidíaz - 11,Stefan Frei,Seattle Sounders FC,Western
+19,3,Real Salt Lake,34,16,5,13,46,41,5,53,36.5,40.4,-3.9,-0.11,18121,Albert Rusnák - 10,Nick Rimando,Real Salt Lake,Western
+11,4,Minnesota,34,15,8,11,52,43,9,53,52.7,44.6,8.1,0.24,19723,Darwin Quintero - 10,Vito Mannone,Minnesota United,Western
+9,5,LA Galaxy,34,16,3,15,58,59,-1,51,56.3,62.5,-6.2,-0.18,23205,Zlatan Ibrahimović - 30,David Bingham,LA Galaxy,Western
+18,6,Portland,34,14,7,13,52,49,3,49,52.8,56.2,-3.4,-0.1,25218,"Jeremy Ebobisse, Brian Fernández - 11",Steve Clark,Portland Timbers,Western
+7,7,FC Dallas,34,13,9,12,54,46,8,48,49.6,43.9,5.7,0.17,14842,Jesus Ferreira - 8,Jesse Gonzalez,FC Dallas,Western
+20,8,San Jose,34,13,5,16,52,55,-3,44,51.9,47.1,4.8,0.14,18781,Chris Wondolowski - 15,Mario Daniel Vega,San Jose Earthquakes,Western
+3,9,Colorado,34,12,6,16,58,63,-5,42,51.1,57.0,-5.9,-0.17,14284,Kei Kamara - 14,Tim Howard,Colorado Rapids,Western
+8,10,Houston,34,12,4,18,49,59,-10,40,47.4,50.6,-3.2,-0.09,15674,Mauro Manotas - 13,Joe Willis,Houston Dynamo,Western
+22,11,Sporting KC,34,10,8,16,49,67,-18,38,58.0,51.4,6.6,0.19,18601,Felipe Gutiérrez - 12,Tim Melia,Sporting Kansas City,Western
+24,12,Vancouver,34,8,10,16,37,59,-22,34,34.4,60.3,-25.9,-0.76,19514,Fredy Montero - 8,Maxime Crépeau,Vancouver Whitecaps,Western
