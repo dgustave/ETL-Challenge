@@ -1,25 +1,25 @@
-Club_ID,Spectators,Top Team Scorer,Goalkeeper
-14,21107,Héber - 15,Sean Johnson
-1,52510,Josef Martínez - 27,Brad Guzan
-17,17111,Kacper Przybyłko - 15,Andre Blake
-23,25048,Alejandro Pozuelo - 12,Quentin Westberg
-5,17744,Wayne Rooney - 11,Bill Hamid
-15,17751,Daniel Royer - 11,Luis Robles
-13,16737,Carles Gil - 10,Matt Turner
-2,12324,C.J. Sapong - 13,Kenneth Kronholm
-12,16171,Saphir Taïder - 9,Evan Bush
-4,14856,Gyasi Zardes - 13,Zack Steffen
-16,22761,Nani - 12,Brian Rowe
-6,27336,Allan Cruz - 7,Spencer Richey
-10,22251,Carlos Vela - 34,Tyler Miller
-21,40247,Raúl Ruidíaz - 11,Stefan Frei
-19,18121,Albert Rusnák - 10,Nick Rimando
-11,19723,Darwin Quintero - 10,Vito Mannone
-9,23205,Zlatan Ibrahimović - 30,David Bingham
-18,25218,"Jeremy Ebobisse, Brian Fernández - 11",Steve Clark
-7,14842,Jesus Ferreira - 8,Jesse Gonzalez
-20,18781,Chris Wondolowski - 15,Mario Daniel Vega
-3,14284,Kei Kamara - 14,Tim Howard
-8,15674,Mauro Manotas - 13,Joe Willis
-22,18601,Felipe Gutiérrez - 12,Tim Melia
-24,19514,Fredy Montero - 8,Maxime Crépeau
+Club_ID,Spectators,Top Team Scorer,Goalkeeper,MVP ID
+14,21107,Héber - 15,Sean Johnson,0
+1,52510,Josef Martínez - 27,Brad Guzan,1
+17,17111,Kacper Przybyłko - 15,Andre Blake,2
+23,25048,Alejandro Pozuelo - 12,Quentin Westberg,3
+5,17744,Wayne Rooney - 11,Bill Hamid,4
+15,17751,Daniel Royer - 11,Luis Robles,5
+13,16737,Carles Gil - 10,Matt Turner,6
+2,12324,C.J. Sapong - 13,Kenneth Kronholm,7
+12,16171,Saphir Taïder - 9,Evan Bush,8
+4,14856,Gyasi Zardes - 13,Zack Steffen,9
+16,22761,Nani - 12,Brian Rowe,10
+6,27336,Allan Cruz - 7,Spencer Richey,11
+10,22251,Carlos Vela - 34,Tyler Miller,12
+21,40247,Raúl Ruidíaz - 11,Stefan Frei,13
+19,18121,Albert Rusnák - 10,Nick Rimando,14
+11,19723,Darwin Quintero - 10,Vito Mannone,15
+9,23205,Zlatan Ibrahimović - 30,David Bingham,16
+18,25218,"Jeremy Ebobisse, Brian Fernández - 11",Steve Clark,17
+7,14842,Jesus Ferreira - 8,Jesse Gonzalez,18
+20,18781,Chris Wondolowski - 15,Mario Daniel Vega,19
+3,14284,Kei Kamara - 14,Tim Howard,20
+8,15674,Mauro Manotas - 13,Joe Willis,21
+22,18601,Felipe Gutiérrez - 12,Tim Melia,22
+24,19514,Fredy Montero - 8,Maxime Crépeau,23

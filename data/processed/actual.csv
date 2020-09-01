@@ -1,25 +1,25 @@
-Club_ID,Goals For,Goals Against,Goal Differential,Total Points
-14,63,42,21,64
-1,58,43,15,58
-17,58,50,8,55
-23,57,52,5,50
-5,42,38,4,50
-15,53,51,2,48
-13,50,57,-7,45
-2,55,47,8,42
-12,47,60,-13,41
-4,39,47,-8,38
-16,44,52,-8,37
-6,31,75,-44,24
-10,85,37,48,72
-21,52,49,3,56
-19,46,41,5,53
-11,52,43,9,53
-9,58,59,-1,51
-18,52,49,3,49
-7,54,46,8,48
-20,52,55,-3,44
-3,58,63,-5,42
-8,49,59,-10,40
-22,49,67,-18,38
-24,37,59,-22,34
+Club_ID,Goals For,Goals Against,Goal Differential,Squad,Goals ID
+14,63,42,21,NYCFC,0
+1,58,43,15,Atlanta,1
+17,58,50,8,Philadelphia,2
+23,57,52,5,Toronto FC,3
+5,42,38,4,D.C. United,4
+15,53,51,2,NY Red Bulls,5
+13,50,57,-7,New England,6
+2,55,47,8,Chicago,7
+12,47,60,-13,Montreal,8
+4,39,47,-8,Columbus,9
+16,44,52,-8,Orlando City,10
+6,31,75,-44,FC Cincinnati,11
+10,85,37,48,Los Angeles FC,12
+21,52,49,3,Seattle,13
+19,46,41,5,Real Salt Lake,14
+11,52,43,9,Minnesota,15
+9,58,59,-1,LA Galaxy,16
+18,52,49,3,Portland,17
+7,54,46,8,FC Dallas,18
+20,52,55,-3,San Jose,19
+3,58,63,-5,Colorado,20
+8,49,59,-10,Houston,21
+22,49,67,-18,Sporting KC,22
+24,37,59,-22,Vancouver,23
