@@ -1,4 +1,4 @@
-Club_ID,Goals For,Goals Against,Goal Differential,Squad,Goals ID
+club_id,goals_for,goals_against,goal_differential,squad,goals _id
 14,63,42,21,NYCFC,0
 1,58,43,15,Atlanta,1
 17,58,50,8,Philadelphia,2

@@ -1,4 +1,4 @@
-Club_ID,Club,Conference,Ranking,Matches Played,Wins,Draws,Losses,Total Points
+club_id,club,conference,ranking,matches_played,wins,draws,losses,total_points
 14,New York City FC,Eastern,1,34,18,10,6,64
 1,Atlanta United,Eastern,2,34,18,4,12,58
 17,Philadelphia Union,Eastern,3,34,16,7,11,55

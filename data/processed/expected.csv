@@ -1,4 +1,4 @@
-Club_ID,Expected Goals,Expected Goals Allowed,Expected Goals Differiential,Expected Goals Differiential/ 90 (mins),Expected ID
+club_id,expected_goals,expected_goals_allowed,expected_goals_differiential,expected_goals_differiential_mins,expected_id
 14,51.8,44.7,7.1,0.22,0
 1,56.6,42.4,14.2,0.42,1
 17,54.9,41.8,13.1,0.39,2
