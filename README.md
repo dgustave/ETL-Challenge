@@ -1,5 +1,7 @@
-## Local Data ETL
+                                                           ![picture](images/mls_imperial.png) 
 
+## Local Data ETL
+                                                                        
 ### Thought Process
 
 * Create a `mls_db` database in dbeaver/postgres then create the following two tables within:
@@ -16,7 +18,9 @@
 
   * Webscraping into a pandas DataFrame:
   * https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
-  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019 
+  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019          ![picture](images/ERD.png) "Simple Parent/Child Relationship"
+
+  
 
 * **Transform**
 
@@ -28,7 +32,7 @@
 
   * Set index to the previously created primary key, which will be ['Club'].
 
-* **Load**
+* **Load**                                                                                               
 
   * Create a connection to database.
 
@@ -43,3 +47,5 @@
     * The `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points' from the "2019 Major League Soccer Stats" table. 
     * The 'Club',  'Total Salaries', 'Total Expected Salaries', 'Average Salaries', and 'Average Expected Salaries' from the "2019 Average Club Salary" table. 
     * 'Club' will be the joining point. 
+    
+    ![picture](images/mls.jpg)

@@ -1,0 +1,18 @@
+Ingesting data into a database using SQLAlchemy and Pandas: 
+https://www.codementor.io/@bruce3557/graceful-data-ingestion-with-sqlalchemy-and-pandas-pft7ddcy6
+
+The data I was ingesting was unviewable in python, __repr__ can return any python expression:
+https://www.journaldev.com/22460/python-str-repr-functions
+
+Transposing to a dictionary: 
+https://stackoverflow.com/questions/29815129/pandas-dataframe-to-list-of-dictionaries
+
+To loop over all members of the Classes attribute and type; to ensure less mistakes:
+https://stackoverflow.com/questions/1398022/looping-over-all-member-variables-of-a-class-in-python
+
+In general this should not be needed and is a sign that the table definitions are created multiple times:
+https://stackoverflow.com/questions/27812250/sqlalchemy-inheritance-not-working 
+
+Using ORM's in SQLAlchemy 22:30 is the time point for parent and child relationship:
+	- Includes use of foreign keys and primary keys: 
+https://youtu.be/f_-ApViOv20?t=1348
