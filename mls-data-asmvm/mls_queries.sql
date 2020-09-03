@@ -67,8 +67,9 @@ from goals as g, league as l
 where g."id" = l."id"
 order by "Goals Per Game" DESC
 
--- Further queries to consider: -- -- combine one table with summary of the views created
-
+-- Further queries to consider: 
+-- -- combine one table with summary of the views created
+-- -- table for goals against to compare salary and defense players with high salary
 
 
 
