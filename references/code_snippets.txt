@@ -16,3 +16,6 @@ https://stackoverflow.com/questions/27812250/sqlalchemy-inheritance-not-working
 Using ORM's in SQLAlchemy 22:30 is the time point for parent and child relationship:
 	- Includes use of foreign keys and primary keys: 
 https://youtu.be/f_-ApViOv20?t=1348
+
+multi bar plot :
+https://stackoverflow.com/questions/34458251/plot-over-an-image-background-in-python/34459284

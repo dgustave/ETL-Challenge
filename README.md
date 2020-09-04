@@ -9,7 +9,7 @@
   * A "2019 Major League Soccer" table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
 
   * A "2019 Average Club Salary" table that contains the columns 'Club',  'Total Salaries', 'Total Expected Salaries', 'Average Salaries', and 'Average Expected Salaries'.
-                                                             ![picture](images/mls.jpg)
+                                                             <img src="images/mls.jpg" width="40%">
   * Be sure to assign a primary key, as Pandas will not be able to do so. In our case it will be by 'Club'. 
 
 * In Jupyter Notebook perform all ETL.
@@ -18,7 +18,7 @@
 
   * Webscraping into a pandas DataFrame:
   * https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
-  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Team Stats 2019          ![picture](images/ERD.png) "Simple Parent/Child Relationship"
+  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Stats 2019 <img src="SUBMISSIONS/ETL-CHALLENGE/images/mls_imperial.jpg" width="70%">
 
   
 
@@ -48,4 +48,5 @@
     * The 'Club',  'Total Salaries', 'Total Expected Salaries', 'Average Salaries', and 'Average Expected Salaries' from the "2019 Average Club Salary" table. 
     * 'Club' will be the joining point. 
     
- 
+     <img src="images/ERD.png" width="30%">
+     "Simple Parent/Child Relationship"
