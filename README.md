@@ -41,6 +41,7 @@
   * Check for a successful connection to the database and confirm that the tables have been created.
 
   * Append DataFrames to tables. Be sure to use the index set earlier.
+  
+* Confirm successful **Load** by querying database. <img src="reports/figures/united.png" width="30%">'
 
-* Confirm successful **Load** by querying database.
-<img src="reports/figures/Salary.png" width="60%">       <img src="reports/figures/united.png" width="60%">'
+<img src="reports/figures/Salary.png" width="60%">       
