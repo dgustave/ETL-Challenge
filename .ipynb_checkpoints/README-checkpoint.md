@@ -3,7 +3,7 @@
 ## Local Data ETL
                                                                         
 ### Thought Process
-*
+****
                                                                                        <img src="images/mls_crest.png" width="60%">                                                            
 * Create a `mls_db` database in dbeaver/postgres then create the following two tables within:      
 
