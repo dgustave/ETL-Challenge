@@ -4,8 +4,8 @@
                                                                         
 ### Thought Process
 *
-                                                                                                  img {border-radius: 50%;} <img src="images/mls.jpg" width="30%">                                                            
-* Create a `mls_db` database in dbeaver/postgres then create the following two tables within:      <img src="images/mls.jpg" width="30%">
+                                                                                       <img src="images/mls_crest.png" width="60%">                                                            
+* Create a `mls_db` database in dbeaver/postgres then create the following two tables within:      
 
   * A "2019 Major League Soccer" table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
 

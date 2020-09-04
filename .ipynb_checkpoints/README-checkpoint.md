@@ -3,8 +3,9 @@
 ## Local Data ETL
                                                                         
 ### Thought Process
-                                                            
-* Create a `mls_db` database in dbeaver/postgres then create the following two tables within:      <img src="images/mls.jpg" width="30%">
+*
+                                                                                       <img src="images/mls_crest.png" width="60%">                                                            
+* Create a `mls_db` database in dbeaver/postgres then create the following two tables within:      
 
   * A "2019 Major League Soccer" table that contains the columns `Ranking', 'Squad', 'Club', 'Matches Played', 'Wins', 'Draws', 'Losses', and 'Total Points'.
 
@@ -42,4 +43,4 @@
   * Append DataFrames to tables. Be sure to use the index set earlier.
 
 * Confirm successful **Load** by querying database.
-<img src="reports/figures/Salary.png" width="60%">
+<img src="reports/figures/Salary.png" width="60%">       <img src="reports/figures/united.png" width="60%">'
