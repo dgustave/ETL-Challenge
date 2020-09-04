@@ -19,7 +19,7 @@
 
   * Webscraping into a pandas DataFrame from an external source:
   * https://mlsplayers.org/resources/salary-guide - Player Salaries 2019
-  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Stats 2019 <img src="SUBMISSIONS/ETL-CHALLENGE/images/mls_imperial.jpg" width="40%">
+  * https://fbref.com/en/comps/22/2798/2019-Major-League-Soccer-Stats Stats 2019 
 
    <img src="images/ERD.png" width="50%">
    "Simple Parent/Child Relationship"
