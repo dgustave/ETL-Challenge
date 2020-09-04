@@ -11,7 +11,7 @@
   * A "2019 Average Club Salary" table that contains the columns 'Club',  'Total Salaries', 'Total Expected Salaries', 'Average Salaries', and 'Average Expected Salaries'.
                                                              
   * Be sure to assign a primary key, as Pandas will not be able to do so. In our case it will be by 'Club ID'. 
-                                                                  <img src="images/mls_crest.png" width="60%"> 
+                                                                  <img src="images/mls_crest.png" width="20%"> 
 
 * In Jupyter Notebook perform all ETL.
 
